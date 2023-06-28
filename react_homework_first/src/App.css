@@ -1,0 +1,57 @@
+.reactHeader {
+  background-color: rgb(216, 6, 6);
+  border-radius: 0  0 20px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.mainName {
+  color: rgb(255, 255, 255);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.listMenu {
+  display: flex;
+}
+
+.linkPoint {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  list-style: none;
+  padding-right: 40px;
+  cursor: pointer;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+.listPoint:last-child {
+  padding: 0;
+}
+
+.left-sidebar {
+  width: 200px;
+  background-color: rgb(216, 6, 6);
+  border-radius: 0 20px 20px 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+ text-align: center;
+}
+
+.contentInformation {
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(216, 6, 6);
+}
+
+.wallpaper {
+  max-width: 100%;
+}
