@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-HW1/static/css/main.40d0cffd.css",
+    "main.js": "/React-HW1/static/js/main.5613ba1a.js",
+    "static/js/787.e2145525.chunk.js": "/React-HW1/static/js/787.e2145525.chunk.js",
+    "static/media/spider-man.jpeg": "/React-HW1/static/media/spider-man.26503e2833065ca56b0c.jpeg",
+    "index.html": "/React-HW1/index.html",
+    "main.40d0cffd.css.map": "/React-HW1/static/css/main.40d0cffd.css.map",
+    "main.5613ba1a.js.map": "/React-HW1/static/js/main.5613ba1a.js.map",
+    "787.e2145525.chunk.js.map": "/React-HW1/static/js/787.e2145525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40d0cffd.css",
+    "static/js/main.5613ba1a.js"
+  ]
+}
